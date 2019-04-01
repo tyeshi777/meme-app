@@ -1,0 +1,20 @@
+.formStyle {
+  margin-top: 1%;
+}
+input {
+  width: 15%;
+  height: 25px;
+  margin-left: 5%;
+  border-radius: 10px;
+}
+button {
+  width: 8%;
+  height: 30px;
+  margin-left: 2%;
+  font-size: 20px;
+  border-radius: 10px;
+}
+.randomMeme {
+  margin-top: 2%;
+  margin-left: 10%;
+}
