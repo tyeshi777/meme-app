@@ -6,6 +6,7 @@ function App() {
   return (
     <div>
       <Header />
+      <button>Login</button>
       <MemeGenerator />
     </div>
   );
